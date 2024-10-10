@@ -2,14 +2,14 @@
   <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Santiago+Ruiz+Posso+💼)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Nice+to+meet+you+💼)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Santiago+Ruiz+Posso+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Nice+to+meet+you+⚡)](https://git.io/typing-svg)
 
-# <a href="https://github.com/SophieNguyen113"><img src="https://wallpapercave.com/wp/wp10580805.jpg" width="200px" height="200px" alt="Sunflower"></a> How do you do? I’m Santiago Ruiz Posso 💼
+# <a href="https://github.com/SophieNguyen113"><img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" width="200px" height="200px" alt="Pokémon GIF"></a> How do you do? I’m Santiago Ruiz Posso ⚡
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
 
-💻 Full Stack Developer || Passionate about Web and Database Development
+💻 Full Stack Developer || Passionate about Web, Database Development, and Android Apps
 
 <hr>
 
@@ -30,6 +30,12 @@
 <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo" title="Java" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android logo" title="Android" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP logo" title="PHP" height="25" /></span>
 
 ### <u> Backend Development Technologies: </u>
 
@@ -48,19 +54,32 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
 
+### <u> Operating Systems: </u>
+
+<br>
+
+<span><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux logo" title="Linux" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server logo" title="Ubuntu Server" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" alt="CentOS logo" title="CentOS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows logo" title="Windows" height="25" /></span>
+
 <br>
 
 <hr>
 
-## Contact me 💼
+## Contact me ⚡
 
 <br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/santiagoruizposso/" target="_blank"  rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/santiago-ruiz-posso-a06171250/" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="santiago-linkedin" />
   </a>
-  <a href="mailto:santiago.ruizposso@gmail.com" target="top" rel="noopener noreferrer">
+  <a href="mailto:snatiagorupoz@gmail.com" target="top" rel="noopener noreferrer">
   <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="santiago-email"/>
   </a>
 </div>
+
 
